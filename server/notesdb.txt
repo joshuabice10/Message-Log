@@ -1,1 +1,1 @@
-[]
+[{"notetext": "The survivor has came to save us!"}]
